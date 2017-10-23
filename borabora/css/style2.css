@@ -1,0 +1,15 @@
+.center {
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+}
+
+a:visited{
+     color: black; 
+} 
+
+a
+{
+color: black;
+text-decoration: none;
+}
